@@ -1,0 +1,45 @@
+React.js
+Node.js
+Python
+Project Estimation
+Requirements Gathering
+Back-End Web Development
+Front-End Development
+Database Design
+Web Application Security
+Project management
+Esialy Adaptable
+Git
+JavaScript
+Express.js
+Vue.js
+TypeScript
+PHP
+Laravel
+Symfony Framework
+CodeIgniter
+Django
+Flask
+HTML5
+CSS
+Tailwind CSS
+Bootstrap
+MySQL
+PosresSQL
+Microsoft SQL Server
+MongoDB
+SQLite
+Java
+JSP
+Spring MVC
+Spring Boot
+Apache Struts
+Hibernate
+Blockchain
+Solidity
+Web3.js
+Amazon EC@
+AWS Lambda
+Amazon S3
+Windows Azure
+cPanel
